@@ -2,4 +2,4 @@
 
 This repository holds only the built website. It is generated from a separate source repository; changes made here are overwritten by the next publish.
 
-Site: https://jeremyglebe.com/Site.Magic-Fansite/
+Site: https://jeremyglebe.com/site.magic-fansite/

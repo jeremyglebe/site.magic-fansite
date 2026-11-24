@@ -41,6 +41,7 @@
 1 Ilysian Caryatid
 1 In Oketra's Name
 1 Indomitable Ancients
+1 Infernal Grasp
 7 Island
 1 Jaddi Offshoot
 1 Juniper Order Rootweaver
@@ -64,7 +65,6 @@
 1 Recover
 1 Regrowth
 2 Return to Nature
-1 Rise from the Grave
 1 Rootborn Defenses
 1 Rustwing Falcon
 1 Sacred Cat

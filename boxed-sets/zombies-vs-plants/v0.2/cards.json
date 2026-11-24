@@ -2369,37 +2369,40 @@
       "rulings_uri": "https://api.scryfall.com/cards/7e99f99a-68a1-4f35-853c-794630d313fc/rulings"
     },
     {
-      "id": "f0f85057-5f4b-47d8-bb00-d993bed1a755",
-      "oracle_id": "4e769107-0f32-4181-9e57-ffebc2228d3a",
-      "name": "Rise from the Grave",
-      "mana_cost": "{4}{B}",
-      "cmc": 5,
+      "id": "f67b323d-0dda-45f8-84b7-d883ce5045a8",
+      "oracle_id": "94f0a572-e91c-4b56-a5d1-6cbbeabd210d",
+      "name": "Infernal Grasp",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
       "colors": [
         "B"
       ],
       "color_identity": [
         "B"
       ],
-      "type_line": "Sorcery",
-      "oracle_text": "Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
-      "scryfall_uri": "https://scryfall.com/card/znc/53/rise-from-the-grave?utm_source=api",
+      "type_line": "Instant",
+      "oracle_text": "Destroy target creature. You lose 2 life.",
+      "keywords": [],
+      "scryfall_uri": "https://scryfall.com/card/soc/216/infernal-grasp?utm_source=api",
       "image_uris": {
-        "small": "https://cards.scryfall.io/small/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.jpg?1783929474",
-        "normal": "https://cards.scryfall.io/normal/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.jpg?1783929474",
-        "large": "https://cards.scryfall.io/large/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.jpg?1783929474",
-        "png": "https://cards.scryfall.io/png/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.png?1783929474",
-        "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.jpg?1783929474",
-        "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.jpg?1783929474",
-        "thumb": "https://cards.scryfall.io/thumb/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.webp?1783929474",
-        "grid": "https://cards.scryfall.io/grid/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.webp?1783929474",
-        "display": "https://cards.scryfall.io/display/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.webp?1783929474",
-        "art": "https://cards.scryfall.io/art/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.webp?1783929474",
-        "crop": "https://cards.scryfall.io/crop/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.webp?1783929474",
-        "jpeg": "https://cards.scryfall.io/normal/front/f/0/f0f85057-5f4b-47d8-bb00-d993bed1a755.jpg?1783929474"
+        "small": "https://cards.scryfall.io/small/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.jpg?1783903785",
+        "normal": "https://cards.scryfall.io/normal/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.jpg?1783903785",
+        "large": "https://cards.scryfall.io/large/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.jpg?1783903785",
+        "png": "https://cards.scryfall.io/png/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.png?1783903785",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.jpg?1783903785",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.jpg?1783903785",
+        "thumb": "https://cards.scryfall.io/thumb/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.webp?1783903785",
+        "grid": "https://cards.scryfall.io/grid/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.webp?1783903785",
+        "display": "https://cards.scryfall.io/display/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.webp?1783903785",
+        "art": "https://cards.scryfall.io/art/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.webp?1783903785",
+        "crop": "https://cards.scryfall.io/crop/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.webp?1783903785",
+        "jpeg": "https://cards.scryfall.io/normal/front/f/6/f67b323d-0dda-45f8-84b7-d883ce5045a8.jpg?1783903785"
       },
-      "set": "znc",
-      "collector_number": "53",
-      "released_at": "2020-09-25"
+      "set": "soc",
+      "set_name": "Secrets of Strixhaven Commander",
+      "collector_number": "216",
+      "released_at": "2026-04-24",
+      "rulings_uri": "https://api.scryfall.com/cards/f67b323d-0dda-45f8-84b7-d883ce5045a8/rulings"
     },
     {
       "id": "50f1b7ba-7888-4f0d-a515-23dcf96bf87e",
@@ -3636,5 +3639,6 @@
       "released_at": "2014-06-06",
       "rulings_uri": "https://api.scryfall.com/cards/a4897302-7726-4827-9fa7-66ac0c264bd4/rulings"
     }
-  ]
+  ],
+  "revision": "v0.2 replaces Rise from the Grave with Infernal Grasp, checked against Scryfall on 2026-11-24."
 }

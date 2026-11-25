@@ -372,7 +372,6 @@
       ],
       "plan": "Birds and a woodland Druid occupy the early turns while sturdy Treefolk arrive. Team buffs and flying Elementals help the entire forty-card deck finish; the Treefolk do not need a tribal-only partner.",
       "notes": [
-        "Healer’s Hawk, Rustwing Falcon, and Suntail Hawk are literal birds, not Bird people. Four Treefolk remain the central creature theme; the Druid is an explicit support choice.",
         "Moonlit Lamenter starts as a 1/4 because of its -1/-1 counter. Its 1W sorcery-speed ability removes a counter and draws a card; removing its initial counter restores the printed 2/5 body. If a creature has +1/+1 and -1/-1 counters, matching pairs are removed as a state-based action.",
         "Juniper Order Rootweaver is a two-mana 2/2 without green. Its optional G kicker works with either green partner; the white-black pair does not rely on it.",
         "Hoofprints of the Stag is an enchantment, not an early creature. Each card drawn can give it one hoofprint counter. Pay 2W and remove four counters to make a 4/4 white flying Elemental, only during your turn.",
@@ -584,8 +583,7 @@
       ],
       "plan": "Trade living Fungi in combat, keep the bodies they leave behind, and turn those spare creatures into cards, life, or a larger attacker. The packet functions on black mana; green Saproling tokens do not require green mana.",
       "notes": [
-        "Eight creature cards, four noncreature spells, eight lands; all nonbasic cards singleton.",
-        "The three reusable sacrifice outlets are intentionally paid outlets (Mold Folk, Soothsayer, Omnivore), so they compete for mana rather than enabling an unrestricted free-sacrifice engine. Choose one outlet for the resource you actually need.",
+        "Mold Folk, Soothsayer, and Thallid Omnivore each charge mana to sacrifice a creature, so they compete for the same mana. Choose the outlet for the resource you need.",
         "Mold Folk's lifelink and Thallid Omnivore's Saproling sacrifice can enable Brackish Trudge's return ability. Without life gain it remains a three-mana 4/2 that enters tapped.",
         "Fungal Fortitude can save a nontoken creature through a death and retrigger an entry/death ability. The Aura does not return attached; tokens do not return after dying.",
         "Deathcap Marionette's mill is optional; Recover or Fungal Fortitude can provide value without mandatory self-mill.",
@@ -816,8 +814,7 @@
       ],
       "plan": "Develop and fix the mana base, establish an early defensive body, then let individual lands join combat as temporary or persistent creatures. Reuse land drops with Embodiment of Insight and recover a lost creature or land with Pulse of Murasa.",
       "notes": [
-        "Five creature cards, seven noncreature spells, eight lands. Five cards animate lands when counting Awakener Druid and Embodiment of Insight, so creature-card count understates its eventual board presence.",
-        "Leafkin Druid, Dawntreader Elk, and Fertilid provide early presence without an Elf package. Dawntreader Elk is a deliberate woodland-animal support choice rather than a literal botanical creature.",
+        "Five cards animate lands, counting Awakener Druid and Embodiment of Insight, so the packet puts more creatures on the battlefield than its five creature cards suggest.",
         "Land animation usually does not untap the land. Pay for spells or abilities with other sources when you want the animated land to attack or block.",
         "A land that became a creature this turn may attack or use a tap ability if you have controlled it continuously since your turn began; becoming a creature does not by itself reset that history. Newly played lands need haste while they are creatures.",
         "Awakener Druid and Genju do not grant haste. Nissa's Zendikon, Rampaging Growth, and Embodiment of Insight do. Awakener's Forest stops being a creature when the Druid leaves; Genju and Embodiment animations end at end of turn.",
@@ -1040,12 +1037,10 @@
       ],
       "plan": "Trade cheap Zombies, turn their deaths and self-mill into resources, reuse creatures, and answer the opponent's best creature. A vanilla two-drop and five-drop keep the necromancy effects from filling every slot with engine text.",
       "notes": [
-        "All spells have a single black pip; Thriving Moor plus seven Swamps avoids early BB demands.",
         "Infernal Grasp works with no creature of your own. The 2 life is lost when it resolves, not paid as a cost.",
         "Undead Butler must exile itself as its death trigger resolves to recover a creature. That copy cannot then be reanimated.",
         "Crow of Dark Tidings mills two both on entry and on death. Milling is not drawing.",
-        "Liliana's Elite counts creature cards currently in your graveyard; recovering or exiling one reduces its size.",
-        "No nonbasic duplicates; one copy of each nonland card. No new Zombie token mechanic is introduced in this packet."
+        "Liliana's Elite counts creature cards currently in your graveyard; recovering or exiling one reduces its size."
       ],
       "risks": [
         "Crow plus Butler can mill seven cards in a normal enter-and-die cycle; repeated reanimation accelerates that. Watch library size in forty-card games, especially with blue or Sludge Titan.",
@@ -1260,7 +1255,6 @@
       ],
       "plan": "Build a board of stitched bodies, filter spare creatures into the graveyard, and use bounce, tapping, and a single counterspell to let attacks through. Headless Skaab uses one spare corpse; Stitchwing Skaab and Think Twice give this packet its own ways to use the graveyard with any partner.",
       "notes": [
-        "All main spell costs and repeat-use costs require only one blue pip.",
         "Headless Skaab cannot be cast unless a creature card can be exiled from your graveyard as its additional cost, and it enters tapped. Screeching Skaab, Selhoff Entomber, Organ Hoarder, and normal creature trades supply material.",
         "Selhoff Entomber can discard only a creature card. It cannot discard a spare land or spell for its tap ability.",
         "Exploit on Stitched Assistant is optional. If using it, the sacrificed creature may be the Assistant itself; sacrifice only when the card and scry are worth the lost body.",
@@ -1268,8 +1262,7 @@
         "Think Twice's flashback is another spell casting and exiles the spell afterward; it can be used after ordinary casting or after being milled.",
         "Compelling Deterrence can target your own permanent, but if you control a Zombie its owner then discards too. Normally use it on the opponent.",
         "Essence Scatter answers a creature spell on the stack, not a creature already on the battlefield.",
-        "Sleep Paralysis keeps its target from untapping during its controller's untap step while the Aura remains attached; it is not destruction.",
-        "No tokens or +1/+1 counters required by the blue packet itself. No nonbasic duplicates."
+        "Sleep Paralysis keeps its target from untapping during its controller's untap step while the Aura remains attached; it is not destruction."
       ],
       "risks": [
         "There is no one-drop, so all three two-drop bodies matter for early play. Check blue+green and blue+white starts rather than relying solely on black's one-drops.",
@@ -1488,7 +1481,7 @@
       },
       "plan": "Develop small mummies, use Zombie-entry triggers to clear blockers or grow attackers, and finish with a team boost or a temporarily flying threat. The partner contributes additional Zombies and threats.",
       "notes": [
-        "Sacred Cat begins as a living Cat, not a Zombie. It is the packet's one deliberately chosen living creature: its embalm turns it into an ancient-tomb mummy, giving a simple introduction to the theme's return-from-death mechanic.",
+        "Sacred Cat begins as a living Cat, not a Zombie. Its embalm brings it back as a Zombie Cat token.",
         "Embalm costs W, is activated only at sorcery speed from the graveyard, and exiles the original Sacred Cat card. Create a white 1/1 Zombie Cat token with lifelink and no mana cost; it is not the original card returned. Its entry triggers Binding Mummy and Mummy Paramount.",
         "Fan Bearer must be able to tap and costs2 mana to activate. To prevent a creature attacking, tap it before attackers are declared; tapping an already-attacking creature does not remove it from combat.",
         "Time to Reflect requires its target to have blocked or been blocked by a Zombie during the current turn. Casting it after blockers are declared but before damage can save a creature; it cannot exile an unrelated creature.",
@@ -1688,7 +1681,7 @@
       "plan": "Use expendable Plant Zombies and deathtouch creatures to contest early turns, fill the graveyard through trades and a small amount of self-mill, then cast an affordable Ghoultree or Sludge Titan. Recovery spells and Rancor keep threats useful.",
       "notes": [
         "Every spell is castable using green mana. Slitherhead and Sludge Titan are black-green cards with hybrid mana costs, but their symbols can all be paid with green. Their actual colors remain black and green.",
-        "The two repeated nonbasic cards are intentional: two Slitherheads and two Sultai Devotees preserve an actual-Zombie early curve without adding radiation, foretell, or obligate off-color cards. All other nonbasic cards are singleton within the Zombie faction.",
+        "The packet holds two Slitherheads and two Sultai Devotees. Every other nonbasic card in the Zombie packets appears once.",
         "Slitherhead's scavenge costs 0, exiles that card from the graveyard, and is activated only at sorcery speed. The resulting counter can help any creature. Removing the card means it no longer discounts a Ghoultree that has not been cast.",
         "Sultai Devotee is a 2/1 with deathtouch. Its once-per-turn ability pays 1 to produce B, G, or U: this is filtering, not extra mana or a tap ability. Its body functions without using that ability.",
         "Ghoultree costs one generic mana less for each creature card in its controller's graveyard, down to a minimum of G. It has no trample by itself; Rancor supplies that role.",
